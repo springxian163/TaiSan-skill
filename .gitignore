@@ -1,0 +1,15 @@
+# 运行时数据与临时文件
+*.备份.xlsx
+rows.json
+station_map.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 渲染输出的 PNG 临时目录
+/tmp_render/
+rendered_*/
